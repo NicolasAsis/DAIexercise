@@ -7,13 +7,6 @@
  */
 
 import React from 'react';
-import {Text,Image,View} from 'react-native';
-import Start from './comps/Start';
 
-function App(){
-  return (
-    <Start />  
-  );
-}
 
 export default App;
