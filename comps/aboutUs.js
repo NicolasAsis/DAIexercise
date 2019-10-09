@@ -5,7 +5,7 @@ function AboutUs(){
     return(
         <View>
        
-            <Text>Hello,I am Heid</Text>
+            <Text>Hello,I am Heidi</Text>
             <Image
             style={{width: 50, height: 50}}
           source={{uri:'https://siyayang0420.com/courton/wp-content/uploads/2019/09/Nicolas_Asis_Portrait.jpg'}}
